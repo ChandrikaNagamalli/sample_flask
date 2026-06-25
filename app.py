@@ -31,5 +31,6 @@ Product URL: {product_url}
 """
 if __name__ == '__main__':
     app.run(debug=True)
+    print("chandrika")
 
 
